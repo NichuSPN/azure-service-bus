@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@azure/service-bus": "^7.5.1"
+  },
+  "name": "service-bus",
+  "version": "1.0.0",
+  "description": "Service Bus test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishaanth S P",
+  "license": "ISC"
+}
